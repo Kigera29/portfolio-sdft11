@@ -1,6 +1,6 @@
 # Portfolio
 #### The app is my Portfolio, 17/09/2024
-#### **By Kelvin Kipchumba**
+#### **By Mark Kigera**
 ## Description
 The application includes a  landing page showing what i do, my education background, some of my projects and their links to my github  and my contact information.
 
@@ -12,7 +12,7 @@ The application includes a  landing page showing what i do, my education backgro
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](https://k-koech.github.io/portfolio-sdft11/)
+* You can view the web live on [Portfolio](git@github.com:Kigera29/portfolio-sdft11.git)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -21,9 +21,9 @@ The application works perfectly well, no bugs.
 HTML, CSS , Fontawesome icons, GIT
 
 ## Support and contact details
-email :: kelvinkipchumba002@gmail.com
+email :: kigeramark@gmail.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence](https://github.com/Kigera29/portfolio-sdft11/blob/master/LICENSE.md)*
 
-Copyright (c) 2024 **Kelvin Kipchumba**
+Copyright (c) 2024 **Kigera Mark**
